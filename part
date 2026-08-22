@@ -1,0 +1,40 @@
+bonusType options
+    tip
+    performance
+    holiday
+    discretionary
+    retention
+    other
+bonusProgram
+    title
+    code
+    bonusType
+    startDate optional
+    endDate optional
+    state
+    description optional
+    unique code
+bonus
+    bonusProgram optional
+    employee
+    bonusType
+    earnedDate
+    amount realNumber
+    currency
+    source optional
+    state
+    reason optional
+bonusContribution
+    bonus
+    contributor optional
+    order optional
+    payment optional
+    amount realNumber
+    contributionDate
+bonusPayout
+    bonus
+    payroll optional
+    payment optional
+    payoutDate
+    amount realNumber
+    unique bonus

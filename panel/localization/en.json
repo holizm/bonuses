@@ -1,0 +1,16 @@
+{
+    "bonusesAmount": "Amount",
+    "bonusesBonuses": "Bonuses",
+    "bonusesCode": "Code",
+    "bonusesCurrency": "Currency",
+    "bonusesDescription": "Description",
+    "bonusesEarnedDate": "Earned date",
+    "bonusesEmployee": "Employee",
+    "bonusesEndDate": "End date",
+    "bonusesProgram": "Bonus program",
+    "bonusesPrograms": "Bonus programs",
+    "bonusesReason": "Reason",
+    "bonusesStartDate": "Start date",
+    "bonusesState": "State",
+    "bonusesType": "Bonus type"
+}

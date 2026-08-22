@@ -1,0 +1,16 @@
+{
+    "bonusesAmount": "مبلغ",
+    "bonusesBonuses": "پاداش‌ها",
+    "bonusesCode": "کد",
+    "bonusesCurrency": "ارز",
+    "bonusesDescription": "توضیحات",
+    "bonusesEarnedDate": "تاریخ تعلق",
+    "bonusesEmployee": "کارمند",
+    "bonusesEndDate": "تاریخ پایان",
+    "bonusesProgram": "برنامه پاداش",
+    "bonusesPrograms": "برنامه‌های پاداش",
+    "bonusesReason": "دلیل",
+    "bonusesStartDate": "تاریخ شروع",
+    "bonusesState": "مرحله",
+    "bonusesType": "نوع پاداش"
+}
