@@ -1,0 +1,4 @@
+[
+    { $match: { bonusType } },
+    { $count: 'count' },
+]
