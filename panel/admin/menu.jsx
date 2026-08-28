@@ -11,6 +11,7 @@ export default [
             },
         ],
         icon: 'redeem',
+        path: '/bonuses',
         title: 'bonusesBonuses',
     },
 ]
