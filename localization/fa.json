@@ -1,18 +1,9 @@
 {
     "common": {
         "bonuses": "پاداش‌ها",
-        "amount": "مبلغ",
-        "code": "کد",
-        "currency": "ارز",
-        "description": "توضیحات",
         "earnedDate": "تاریخ تعلق",
-        "employee": "کارمند",
-        "endDate": "تاریخ پایان",
         "program": "برنامه پاداش",
         "programs": "برنامه‌های پاداش",
-        "reason": "دلیل",
-        "startDate": "تاریخ شروع",
-        "state": "مرحله",
         "type": "نوع پاداش"
     }
 }

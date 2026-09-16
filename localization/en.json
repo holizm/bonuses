@@ -1,18 +1,9 @@
 {
     "common": {
         "bonuses": "Bonuses",
-        "amount": "Amount",
-        "code": "Code",
-        "currency": "Currency",
-        "description": "Description",
         "earnedDate": "Earned date",
-        "employee": "Employee",
-        "endDate": "End date",
         "program": "Bonus program",
         "programs": "Bonus programs",
-        "reason": "Reason",
-        "startDate": "Start date",
-        "state": "State",
         "type": "Bonus type"
     }
 }
