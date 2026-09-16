@@ -1,9 +1,7 @@
 {
-    "common": {},
-    "api": {},
-    "panel": {
-        "amount": "Amount",
+    "common": {
         "bonuses": "Bonuses",
+        "amount": "Amount",
         "code": "Code",
         "currency": "Currency",
         "description": "Description",
@@ -16,8 +14,5 @@
         "startDate": "Start date",
         "state": "State",
         "type": "Bonus type"
-    },
-    "site": {
-        "bonuses": "Bonuses"
     }
 }
