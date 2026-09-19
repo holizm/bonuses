@@ -1,0 +1,9 @@
+{
+    "common": {
+        "bonuses": "獎金",
+        "earnedDate": "獲得日期",
+        "program": "獎金方案",
+        "programs": "獎金方案",
+        "type": "獎金類型"
+    }
+}

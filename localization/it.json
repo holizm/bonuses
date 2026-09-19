@@ -1,0 +1,9 @@
+{
+    "common": {
+        "bonuses": "Bonus",
+        "earnedDate": "Data di maturazione",
+        "program": "Programma bonus",
+        "programs": "Programmi bonus",
+        "type": "Tipo di bonus"
+    }
+}

@@ -1,0 +1,9 @@
+{
+    "common": {
+        "bonuses": "Bónuszok",
+        "earnedDate": "Megszerzés dátuma",
+        "program": "Bónuszprogram",
+        "programs": "Bónuszprogramok",
+        "type": "Bónusz típusa"
+    }
+}

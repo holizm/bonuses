@@ -1,0 +1,9 @@
+{
+    "common": {
+        "bonuses": "Bonusuri",
+        "earnedDate": "Data obținerii",
+        "program": "Program de bonusuri",
+        "programs": "Programe de bonusuri",
+        "type": "Tip de bonus"
+    }
+}

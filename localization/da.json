@@ -1,0 +1,9 @@
+{
+    "common": {
+        "bonuses": "Bonusser",
+        "earnedDate": "Optjeningsdato",
+        "program": "Bonusprogram",
+        "programs": "Bonusprogrammer",
+        "type": "Bonustype"
+    }
+}

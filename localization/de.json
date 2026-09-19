@@ -1,0 +1,9 @@
+{
+    "common": {
+        "bonuses": "Boni",
+        "earnedDate": "Verdienstdatum",
+        "program": "Bonusprogramm",
+        "programs": "Bonusprogramme",
+        "type": "Bonusart"
+    }
+}

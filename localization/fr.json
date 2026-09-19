@@ -1,0 +1,9 @@
+{
+    "common": {
+        "bonuses": "Primes",
+        "earnedDate": "Date d’acquisition",
+        "program": "Programme de primes",
+        "programs": "Programmes de primes",
+        "type": "Type de prime"
+    }
+}

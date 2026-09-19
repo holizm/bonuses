@@ -1,0 +1,9 @@
+{
+    "common": {
+        "bonuses": "Bonus",
+        "earnedDate": "Tanggal perolehan",
+        "program": "Program bonus",
+        "programs": "Program bonus",
+        "type": "Jenis bonus"
+    }
+}

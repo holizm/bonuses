@@ -1,0 +1,9 @@
+{
+    "common": {
+        "bonuses": "Tiền thưởng",
+        "earnedDate": "Ngày được hưởng",
+        "program": "Chương trình thưởng",
+        "programs": "Các chương trình thưởng",
+        "type": "Loại thưởng"
+    }
+}

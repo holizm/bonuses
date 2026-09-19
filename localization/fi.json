@@ -1,0 +1,9 @@
+{
+    "common": {
+        "bonuses": "Bonukset",
+        "earnedDate": "Ansaitsemispäivä",
+        "program": "Bonusohjelma",
+        "programs": "Bonusohjelmat",
+        "type": "Bonustyyppi"
+    }
+}

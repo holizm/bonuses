@@ -1,0 +1,9 @@
+{
+    "common": {
+        "bonuses": "Bonificaciones",
+        "earnedDate": "Fecha de devengo",
+        "program": "Programa de bonificaciones",
+        "programs": "Programas de bonificaciones",
+        "type": "Tipo de bonificación"
+    }
+}
