@@ -1,5 +1,14 @@
 {
     "common": {
+        "bonus": "โบนัส",
+        "bonusContribution": "โบนัส – เงินสมทบ",
+        "bonusContributions": "โบนัส – เงินสมทบ",
+        "bonusPayout": "โบนัส – การจ่ายเงิน",
+        "bonusPayouts": "โบนัส – การจ่ายเงิน",
+        "bonusProgram": "โปรแกรมโบนัส",
+        "bonusPrograms": "โปรแกรมโบนัส",
+        "bonusType": "ประเภทโบนัส",
+        "bonusTypes": "ประเภทโบนัส – ประเภท",
         "bonuses": "โบนัส",
         "earnedDate": "วันที่ได้รับ",
         "program": "โปรแกรมโบนัส",

@@ -1,5 +1,14 @@
 {
     "common": {
+        "bonus": "Bonus",
+        "bonusContribution": "Bonus – Sumbangan",
+        "bonusContributions": "Bonus – Sumbangan",
+        "bonusPayout": "Bonus – Pembayaran",
+        "bonusPayouts": "Bonus – Pembayaran",
+        "bonusProgram": "Program bonus",
+        "bonusPrograms": "Program bonus",
+        "bonusType": "Jenis bonus",
+        "bonusTypes": "Jenis bonus – Jenis",
         "bonuses": "Bonus",
         "earnedDate": "Tarikh diperoleh",
         "program": "Program bonus",

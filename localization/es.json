@@ -1,5 +1,14 @@
 {
     "common": {
+        "bonus": "Bono",
+        "bonusContribution": "Bono – Contribución",
+        "bonusContributions": "Bonificaciones – Contribuciones",
+        "bonusPayout": "Bono – Pago",
+        "bonusPayouts": "Bonificaciones – Pagos",
+        "bonusProgram": "Programa de bonificaciones",
+        "bonusPrograms": "Programas de bonificaciones",
+        "bonusType": "Tipo de bonificación",
+        "bonusTypes": "Tipo de bonificación – Tipos",
         "bonuses": "Bonificaciones",
         "earnedDate": "Fecha de devengo",
         "program": "Programa de bonificaciones",

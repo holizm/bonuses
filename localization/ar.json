@@ -1,5 +1,14 @@
 {
     "common": {
+        "bonus": "مكافأة",
+        "bonusContribution": "مكافأة – مساهمة",
+        "bonusContributions": "المكافآت – مساهمات",
+        "bonusPayout": "مكافأة – صرف",
+        "bonusPayouts": "المكافآت – مدفوعات",
+        "bonusProgram": "برنامج المكافآت",
+        "bonusPrograms": "برامج المكافآت",
+        "bonusType": "نوع المكافأة",
+        "bonusTypes": "نوع المكافأة – أنواع",
         "bonuses": "المكافآت",
         "earnedDate": "تاريخ الاستحقاق",
         "program": "برنامج المكافآت",

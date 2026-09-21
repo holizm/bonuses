@@ -1,5 +1,14 @@
 {
     "common": {
+        "bonus": "Bonus",
+        "bonusContribution": "Bonus – Beitrag",
+        "bonusContributions": "Boni – Beiträge",
+        "bonusPayout": "Bonus – Auszahlung",
+        "bonusPayouts": "Boni – Auszahlungen",
+        "bonusProgram": "Bonusprogramm",
+        "bonusPrograms": "Bonusprogramme",
+        "bonusType": "Bonusart",
+        "bonusTypes": "Bonusart – Typen",
         "bonuses": "Boni",
         "earnedDate": "Verdienstdatum",
         "program": "Bonusprogramm",

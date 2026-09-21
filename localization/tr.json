@@ -1,5 +1,14 @@
 {
     "common": {
+        "bonus": "Prim",
+        "bonusContribution": "Prim – Katkı",
+        "bonusContributions": "Primler – Katkılar",
+        "bonusPayout": "Prim – Ödeme",
+        "bonusPayouts": "Primler – Ödemeler",
+        "bonusProgram": "Prim programı",
+        "bonusPrograms": "Prim programları",
+        "bonusType": "Prim türü",
+        "bonusTypes": "Prim türü – Türler",
         "bonuses": "Primler",
         "earnedDate": "Kazanma tarihi",
         "program": "Prim programı",

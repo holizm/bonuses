@@ -1,5 +1,14 @@
 {
     "common": {
+        "bonus": "Μπόνους",
+        "bonusContribution": "Μπόνους – Συνεισφορά",
+        "bonusContributions": "Μπόνους – Συνεισφορές",
+        "bonusPayout": "Μπόνους – Πληρωμή",
+        "bonusPayouts": "Μπόνους – Πληρωμές",
+        "bonusProgram": "Πρόγραμμα μπόνους",
+        "bonusPrograms": "Προγράμματα μπόνους",
+        "bonusType": "Τύπος μπόνους",
+        "bonusTypes": "Τύπος μπόνους – Τύποι",
         "bonuses": "Μπόνους",
         "earnedDate": "Ημερομηνία απόκτησης",
         "program": "Πρόγραμμα μπόνους",

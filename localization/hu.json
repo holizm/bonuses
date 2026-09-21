@@ -1,5 +1,14 @@
 {
     "common": {
+        "bonus": "Bónusz",
+        "bonusContribution": "Bónusz – Hozzájárulás",
+        "bonusContributions": "Bónuszok – Hozzájárulások",
+        "bonusPayout": "Bónusz – Kifizetés",
+        "bonusPayouts": "Bónuszok – Kifizetések",
+        "bonusProgram": "Bónuszprogram",
+        "bonusPrograms": "Bónuszprogramok",
+        "bonusType": "Bónusz típusa",
+        "bonusTypes": "Bónusz típusa – Típusok",
         "bonuses": "Bónuszok",
         "earnedDate": "Megszerzés dátuma",
         "program": "Bónuszprogram",

@@ -1,5 +1,14 @@
 {
     "common": {
+        "bonus": "پاداش",
+        "bonusContribution": "پاداش – مشارکت",
+        "bonusContributions": "پاداش‌ها – مشارکت‌ها",
+        "bonusPayout": "پاداش – پرداخت",
+        "bonusPayouts": "پاداش‌ها – پرداخت‌ها",
+        "bonusProgram": "برنامه پاداش",
+        "bonusPrograms": "برنامه‌های پاداش",
+        "bonusType": "نوع پاداش",
+        "bonusTypes": "نوع پاداش – انواع",
         "bonuses": "پاداش‌ها",
         "earnedDate": "تاریخ تعلق",
         "program": "برنامه پاداش",

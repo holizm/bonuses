@@ -1,5 +1,14 @@
 {
     "common": {
+        "bonus": "Bonus",
+        "bonusContribution": "Bonus – Contribuție",
+        "bonusContributions": "Bonusuri – Contribuții",
+        "bonusPayout": "Bonus – Plată",
+        "bonusPayouts": "Bonusuri – Plăți",
+        "bonusProgram": "Program de bonusuri",
+        "bonusPrograms": "Programe de bonusuri",
+        "bonusType": "Tip de bonus",
+        "bonusTypes": "Tip de bonus – Tipuri",
         "bonuses": "Bonusuri",
         "earnedDate": "Data obținerii",
         "program": "Program de bonusuri",

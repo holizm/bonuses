@@ -1,5 +1,14 @@
 {
     "common": {
+        "bonus": "Premia",
+        "bonusContribution": "Premia – Wkład",
+        "bonusContributions": "Premie – Wkłady",
+        "bonusPayout": "Premia – Wypłata",
+        "bonusPayouts": "Premie – Wypłaty",
+        "bonusProgram": "Program premiowy",
+        "bonusPrograms": "Programy premiowe",
+        "bonusType": "Rodzaj premii",
+        "bonusTypes": "Rodzaj premii – Typy",
         "bonuses": "Premie",
         "earnedDate": "Data nabycia",
         "program": "Program premiowy",

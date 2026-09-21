@@ -1,5 +1,14 @@
 {
     "common": {
+        "bonus": "ਬੋਨਸ",
+        "bonusContribution": "ਬੋਨਸ – ਯੋਗਦਾਨ",
+        "bonusContributions": "ਬੋਨਸ – ਯੋਗਦਾਨ",
+        "bonusPayout": "ਬੋਨਸ – ਭੁਗਤਾਨ",
+        "bonusPayouts": "ਬੋਨਸ – ਭੁਗਤਾਨ",
+        "bonusProgram": "ਬੋਨਸ ਪ੍ਰੋਗਰਾਮ",
+        "bonusPrograms": "ਬੋਨਸ ਪ੍ਰੋਗਰਾਮ",
+        "bonusType": "ਬੋਨਸ ਦੀ ਕਿਸਮ",
+        "bonusTypes": "ਬੋਨਸ ਦੀ ਕਿਸਮ – ਕਿਸਮਾਂ",
         "bonuses": "ਬੋਨਸ",
         "earnedDate": "ਕਮਾਈ ਦੀ ਮਿਤੀ",
         "program": "ਬੋਨਸ ਪ੍ਰੋਗਰਾਮ",

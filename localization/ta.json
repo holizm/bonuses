@@ -1,5 +1,14 @@
 {
     "common": {
+        "bonus": "போனஸ்",
+        "bonusContribution": "போனஸ் – பங்களிப்பு",
+        "bonusContributions": "ஊக்கத்தொகைகள் – பங்களிப்புகள்",
+        "bonusPayout": "போனஸ் – பணம் செலுத்தல்",
+        "bonusPayouts": "ஊக்கத்தொகைகள் – பணம் செலுத்தல்கள்",
+        "bonusProgram": "ஊக்கத்தொகைத் திட்டம்",
+        "bonusPrograms": "ஊக்கத்தொகைத் திட்டங்கள்",
+        "bonusType": "ஊக்கத்தொகை வகை",
+        "bonusTypes": "ஊக்கத்தொகை வகை – வகைகள்",
         "bonuses": "ஊக்கத்தொகைகள்",
         "earnedDate": "ஈட்டிய தேதி",
         "program": "ஊக்கத்தொகைத் திட்டம்",

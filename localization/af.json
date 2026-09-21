@@ -1,5 +1,14 @@
 {
     "common": {
+        "bonus": "Bonus",
+        "bonusContribution": "Bonus – Bydrae",
+        "bonusContributions": "Bonusse – Bydraes",
+        "bonusPayout": "Bonus – Uitbetaling",
+        "bonusPayouts": "Bonusse – Uitbetalings",
+        "bonusProgram": "Bonusprogram",
+        "bonusPrograms": "Bonusprogramme",
+        "bonusType": "Bonustipe",
+        "bonusTypes": "Bonustipe – Tipes",
         "bonuses": "Bonusse",
         "earnedDate": "Verdieningsdatum",
         "program": "Bonusprogram",

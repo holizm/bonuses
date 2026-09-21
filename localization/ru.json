@@ -1,5 +1,14 @@
 {
     "common": {
+        "bonus": "Бонус",
+        "bonusContribution": "Бонус – Вклад",
+        "bonusContributions": "Бонусы – Вклады",
+        "bonusPayout": "Бонус – Выплата",
+        "bonusPayouts": "Бонусы – Выплаты",
+        "bonusProgram": "Бонусная программа",
+        "bonusPrograms": "Бонусные программы",
+        "bonusType": "Тип бонуса",
+        "bonusTypes": "Тип бонуса – Типы",
         "bonuses": "Бонусы",
         "earnedDate": "Дата начисления",
         "program": "Бонусная программа",

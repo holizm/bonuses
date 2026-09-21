@@ -1,5 +1,14 @@
 {
     "common": {
+        "bonus": "بونس",
+        "bonusContribution": "بونس – شراکت",
+        "bonusContributions": "بونس – شراکتیں",
+        "bonusPayout": "بونس – ادائیگی",
+        "bonusPayouts": "بونس – ادائیگیاں",
+        "bonusProgram": "بونس پروگرام",
+        "bonusPrograms": "بونس پروگرام",
+        "bonusType": "بونس کی قسم",
+        "bonusTypes": "بونس کی قسم – اقسام",
         "bonuses": "بونس",
         "earnedDate": "حصول کی تاریخ",
         "program": "بونس پروگرام",

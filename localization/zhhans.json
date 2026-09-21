@@ -1,5 +1,14 @@
 {
     "common": {
+        "bonus": "奖金",
+        "bonusContribution": "奖金 – 贡献",
+        "bonusContributions": "奖金 – 贡献",
+        "bonusPayout": "奖金 – 支付",
+        "bonusPayouts": "奖金 – 支付",
+        "bonusProgram": "奖金方案",
+        "bonusPrograms": "奖金方案",
+        "bonusType": "奖金类型",
+        "bonusTypes": "奖金类型 – 类型",
         "bonuses": "奖金",
         "earnedDate": "获得日期",
         "program": "奖金方案",

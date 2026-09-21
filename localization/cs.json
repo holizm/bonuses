@@ -1,5 +1,14 @@
 {
     "common": {
+        "bonus": "Bonus",
+        "bonusContribution": "Bonus – Příspěvek",
+        "bonusContributions": "Bonusy – Příspěvky",
+        "bonusPayout": "Bonus – Výplata",
+        "bonusPayouts": "Bonusy – Výplaty",
+        "bonusProgram": "Bonusový program",
+        "bonusPrograms": "Bonusové programy",
+        "bonusType": "Typ bonusu",
+        "bonusTypes": "Typ bonusu – Typy",
         "bonuses": "Bonusy",
         "earnedDate": "Datum získání",
         "program": "Bonusový program",

@@ -1,5 +1,14 @@
 {
     "common": {
+        "bonus": "בונוס",
+        "bonusContribution": "בונוס – תרומה",
+        "bonusContributions": "בונוסים – תרומות",
+        "bonusPayout": "בונוס – תשלום",
+        "bonusPayouts": "בונוסים – תשלומים",
+        "bonusProgram": "תוכנית בונוסים",
+        "bonusPrograms": "תוכניות בונוסים",
+        "bonusType": "סוג בונוס",
+        "bonusTypes": "סוג בונוס – סוגים",
         "bonuses": "בונוסים",
         "earnedDate": "תאריך זכאות",
         "program": "תוכנית בונוסים",

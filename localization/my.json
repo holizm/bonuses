@@ -1,5 +1,14 @@
 {
     "common": {
+        "bonus": "ဆုကြေး",
+        "bonusContribution": "ဆုကြေး – ထည့်ဝင်မှု",
+        "bonusContributions": "အပိုဆုများ – ထည့်ဝင်မှုများ",
+        "bonusPayout": "ဆုကြေး – ပေးချေမှု",
+        "bonusPayouts": "အပိုဆုများ – ပေးချေမှုများ",
+        "bonusProgram": "အပိုဆု အစီအစဉ်",
+        "bonusPrograms": "အပိုဆု အစီအစဉ်များ",
+        "bonusType": "အပိုဆု အမျိုးအစား",
+        "bonusTypes": "အပိုဆု အမျိုးအစား – အမျိုးအစားများ",
         "bonuses": "အပိုဆုများ",
         "earnedDate": "ရရှိသည့်ရက်",
         "program": "အပိုဆု အစီအစဉ်",

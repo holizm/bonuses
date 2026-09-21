@@ -1,5 +1,14 @@
 {
     "common": {
+        "bonus": "ጉርሻ",
+        "bonusContribution": "ጉርሻ – አስተዋጽኦ",
+        "bonusContributions": "ጉርሻዎች – አስተዋጽኦዎች",
+        "bonusPayout": "ጉርሻ – ክፍያ",
+        "bonusPayouts": "ጉርሻዎች – ክፍያዎች",
+        "bonusProgram": "የጉርሻ ፕሮግራም",
+        "bonusPrograms": "የጉርሻ ፕሮግራሞች",
+        "bonusType": "የጉርሻ ዓይነት",
+        "bonusTypes": "የጉርሻ ዓይነት – ዓይነቶች",
         "bonuses": "ጉርሻዎች",
         "earnedDate": "የተገኘበት ቀን",
         "program": "የጉርሻ ፕሮግራም",

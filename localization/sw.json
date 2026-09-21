@@ -1,5 +1,14 @@
 {
     "common": {
+        "bonus": "Bonasi",
+        "bonusContribution": "Bonasi – Mchango",
+        "bonusContributions": "Bonasi – Michango",
+        "bonusPayout": "Bonasi – Malipo",
+        "bonusPayouts": "Bonasi – Malipo",
+        "bonusProgram": "Mpango wa bonasi",
+        "bonusPrograms": "Mipango ya bonasi",
+        "bonusType": "Aina ya bonasi",
+        "bonusTypes": "Aina ya bonasi – Aina",
         "bonuses": "Bonasi",
         "earnedDate": "Tarehe ya kupatikana",
         "program": "Mpango wa bonasi",

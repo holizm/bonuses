@@ -1,5 +1,14 @@
 {
     "common": {
+        "bonus": "獎金",
+        "bonusContribution": "獎金 – 提撥",
+        "bonusContributions": "獎金 – 提撥",
+        "bonusPayout": "獎金 – 支付",
+        "bonusPayouts": "獎金 – 支付",
+        "bonusProgram": "獎金方案",
+        "bonusPrograms": "獎金方案",
+        "bonusType": "獎金類型",
+        "bonusTypes": "獎金類型 – 類型",
         "bonuses": "獎金",
         "earnedDate": "獲得日期",
         "program": "獎金方案",

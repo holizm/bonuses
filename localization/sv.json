@@ -1,5 +1,14 @@
 {
     "common": {
+        "bonus": "Bonus",
+        "bonusContribution": "Bonus – Bidrag",
+        "bonusContributions": "Bonusar – Bidrag",
+        "bonusPayout": "Bonus – Utbetalning",
+        "bonusPayouts": "Bonusar – Utbetalningar",
+        "bonusProgram": "Bonusprogram",
+        "bonusPrograms": "Bonusprogram",
+        "bonusType": "Bonustyp",
+        "bonusTypes": "Bonustyp – Typer",
         "bonuses": "Bonusar",
         "earnedDate": "Intjänandedatum",
         "program": "Bonusprogram",

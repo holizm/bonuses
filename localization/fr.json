@@ -1,5 +1,14 @@
 {
     "common": {
+        "bonus": "Prime",
+        "bonusContribution": "Prime – Contribution",
+        "bonusContributions": "Primes – Contributions",
+        "bonusPayout": "Prime – Versement",
+        "bonusPayouts": "Primes – Versements",
+        "bonusProgram": "Programme de primes",
+        "bonusPrograms": "Programmes de primes",
+        "bonusType": "Type de prime",
+        "bonusTypes": "Type de prime – Les types",
         "bonuses": "Primes",
         "earnedDate": "Date d’acquisition",
         "program": "Programme de primes",

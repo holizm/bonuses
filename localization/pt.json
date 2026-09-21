@@ -1,5 +1,14 @@
 {
     "common": {
+        "bonus": "Bónus",
+        "bonusContribution": "Bónus – Contribuição",
+        "bonusContributions": "Bónus – Contribuições",
+        "bonusPayout": "Bónus – Pagamento",
+        "bonusPayouts": "Bónus – Pagamentos",
+        "bonusProgram": "Programa de bónus",
+        "bonusPrograms": "Programas de bónus",
+        "bonusType": "Tipo de bónus",
+        "bonusTypes": "Tipo de bónus – Tipos",
         "bonuses": "Bónus",
         "earnedDate": "Data de aquisição",
         "program": "Programa de bónus",

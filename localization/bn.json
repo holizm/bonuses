@@ -1,5 +1,14 @@
 {
     "common": {
+        "bonus": "বোনাস",
+        "bonusContribution": "বোনাস – অবদান",
+        "bonusContributions": "বোনাস – অবদানসমূহ",
+        "bonusPayout": "বোনাস – পরিশোধ",
+        "bonusPayouts": "বোনাস – পরিশোধসমূহ",
+        "bonusProgram": "বোনাস কর্মসূচি",
+        "bonusPrograms": "বোনাস কর্মসূচিসমূহ",
+        "bonusType": "বোনাসের ধরন",
+        "bonusTypes": "বোনাসের ধরন – প্রকারভেদ",
         "bonuses": "বোনাস",
         "earnedDate": "অর্জনের তারিখ",
         "program": "বোনাস কর্মসূচি",

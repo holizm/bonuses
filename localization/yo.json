@@ -1,5 +1,14 @@
 {
     "common": {
+        "bonus": "Ẹ̀bùn",
+        "bonusContribution": "Ẹ̀bùn – Ìdáwó",
+        "bonusContributions": "Àwọn ẹ̀bùn àfikún – Àwọn ìdáwó",
+        "bonusPayout": "Ẹ̀bùn – Ìsanwó",
+        "bonusPayouts": "Àwọn ẹ̀bùn àfikún – Àwọn ìsanwó",
+        "bonusProgram": "Ètò ẹ̀bùn àfikún",
+        "bonusPrograms": "Àwọn ètò ẹ̀bùn àfikún",
+        "bonusType": "Irú ẹ̀bùn àfikún",
+        "bonusTypes": "Irú ẹ̀bùn àfikún – Àwọn irú",
         "bonuses": "Àwọn ẹ̀bùn àfikún",
         "earnedDate": "Ọjọ́ tí a rí gbà",
         "program": "Ètò ẹ̀bùn àfikún",

@@ -1,5 +1,14 @@
 {
     "common": {
+        "bonus": "બોનસ",
+        "bonusContribution": "બોનસ – ફાળો",
+        "bonusContributions": "બોનસ – ફાળાઓ",
+        "bonusPayout": "બોનસ – ચુકવણી",
+        "bonusPayouts": "બોનસ – ચુકવણીઓ",
+        "bonusProgram": "બોનસ કાર્યક્રમ",
+        "bonusPrograms": "બોનસ કાર્યક્રમો",
+        "bonusType": "બોનસનો પ્રકાર",
+        "bonusTypes": "બોનસનો પ્રકાર – પ્રકારો",
         "bonuses": "બોનસ",
         "earnedDate": "મેળવ્યાની તારીખ",
         "program": "બોનસ કાર્યક્રમ",

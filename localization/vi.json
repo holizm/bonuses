@@ -1,5 +1,14 @@
 {
     "common": {
+        "bonus": "Thưởng",
+        "bonusContribution": "Thưởng – Khoản đóng góp",
+        "bonusContributions": "Tiền thưởng – Các khoản đóng góp",
+        "bonusPayout": "Thưởng – Khoản chi trả",
+        "bonusPayouts": "Tiền thưởng – Các khoản chi trả",
+        "bonusProgram": "Chương trình thưởng",
+        "bonusPrograms": "Các chương trình thưởng",
+        "bonusType": "Loại thưởng",
+        "bonusTypes": "Loại thưởng – Các loại",
         "bonuses": "Tiền thưởng",
         "earnedDate": "Ngày được hưởng",
         "program": "Chương trình thưởng",

@@ -1,5 +1,14 @@
 {
     "common": {
+        "bonus": "보너스",
+        "bonusContribution": "보너스 – 기여",
+        "bonusContributions": "보너스 – 기여",
+        "bonusPayout": "보너스 – 지급",
+        "bonusPayouts": "보너스 – 지급",
+        "bonusProgram": "보너스 프로그램",
+        "bonusPrograms": "보너스 프로그램",
+        "bonusType": "보너스 유형",
+        "bonusTypes": "보너스 유형 – 유형",
         "bonuses": "보너스",
         "earnedDate": "적립일",
         "program": "보너스 프로그램",

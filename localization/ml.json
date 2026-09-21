@@ -1,5 +1,14 @@
 {
     "common": {
+        "bonus": "ബോണസ്",
+        "bonusContribution": "ബോണസ് – സംഭാവന",
+        "bonusContributions": "ബോണസുകൾ – സംഭാവനകൾ",
+        "bonusPayout": "ബോണസ് – പേയൗട്ട്",
+        "bonusPayouts": "ബോണസുകൾ – പേയൗട്ടുകൾ",
+        "bonusProgram": "ബോണസ് പദ്ധതി",
+        "bonusPrograms": "ബോണസ് പദ്ധതികൾ",
+        "bonusType": "ബോണസ് തരം",
+        "bonusTypes": "ബോണസ് തരം – തരങ്ങൾ",
         "bonuses": "ബോണസുകൾ",
         "earnedDate": "നേടിയ തീയതി",
         "program": "ബോണസ് പദ്ധതി",

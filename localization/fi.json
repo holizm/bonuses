@@ -1,5 +1,14 @@
 {
     "common": {
+        "bonus": "Bonus",
+        "bonusContribution": "Bonus – Maksuosuus",
+        "bonusContributions": "Bonukset – Maksuosuudet",
+        "bonusPayout": "Bonus – Maksu",
+        "bonusPayouts": "Bonukset – Maksut",
+        "bonusProgram": "Bonusohjelma",
+        "bonusPrograms": "Bonusohjelmat",
+        "bonusType": "Bonustyyppi",
+        "bonusTypes": "Bonustyyppi – Tyypit",
         "bonuses": "Bonukset",
         "earnedDate": "Ansaitsemispäivä",
         "program": "Bonusohjelma",

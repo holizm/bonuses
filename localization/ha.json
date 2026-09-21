@@ -1,5 +1,14 @@
 {
     "common": {
+        "bonus": "Kari",
+        "bonusContribution": "Kari – Gudummawa",
+        "bonusContributions": "Kyaututtuka – Gudummawa",
+        "bonusPayout": "Kari – Biya",
+        "bonusPayouts": "Kyaututtuka – Biyan kuɗi",
+        "bonusProgram": "Shirin kyaututtuka",
+        "bonusPrograms": "Shirye-shiryen kyaututtuka",
+        "bonusType": "Nau’in kyaututtuka",
+        "bonusTypes": "Nau’in kyaututtuka – Nau'o'i",
         "bonuses": "Kyaututtuka",
         "earnedDate": "Ranar samu",
         "program": "Shirin kyaututtuka",

@@ -1,5 +1,14 @@
 {
     "common": {
+        "bonus": "ボーナス",
+        "bonusContribution": "ボーナス – 拠出",
+        "bonusContributions": "ボーナス – 拠出",
+        "bonusPayout": "ボーナス – 支払い",
+        "bonusPayouts": "ボーナス – 支払い",
+        "bonusProgram": "ボーナスプログラム",
+        "bonusPrograms": "ボーナスプログラム",
+        "bonusType": "ボーナス種別",
+        "bonusTypes": "ボーナス種別 – 種類",
         "bonuses": "ボーナス",
         "earnedDate": "獲得日",
         "program": "ボーナスプログラム",

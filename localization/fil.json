@@ -1,5 +1,14 @@
 {
     "common": {
+        "bonus": "Bonus",
+        "bonusContribution": "Bonus – Kontribusyon",
+        "bonusContributions": "Mga bonus – Mga kontribusyon",
+        "bonusPayout": "Bonus – Payout",
+        "bonusPayouts": "Mga bonus – Mga payout",
+        "bonusProgram": "Programa ng bonus",
+        "bonusPrograms": "Mga programa ng bonus",
+        "bonusType": "Uri ng bonus",
+        "bonusTypes": "Uri ng bonus – Mga uri",
         "bonuses": "Mga bonus",
         "earnedDate": "Petsa ng pagkamit",
         "program": "Programa ng bonus",

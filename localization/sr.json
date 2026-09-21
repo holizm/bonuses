@@ -1,5 +1,14 @@
 {
     "common": {
+        "bonus": "Бонус",
+        "bonusContribution": "Бонус – Допринос",
+        "bonusContributions": "Бонуси – Доприноси",
+        "bonusPayout": "Бонус – Исплата",
+        "bonusPayouts": "Бонуси – Исплате",
+        "bonusProgram": "Бонусни програм",
+        "bonusPrograms": "Бонусни програми",
+        "bonusType": "Врста бонуса",
+        "bonusTypes": "Врста бонуса – Tipovi",
         "bonuses": "Бонуси",
         "earnedDate": "Датум стицања",
         "program": "Бонусни програм",

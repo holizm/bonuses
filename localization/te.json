@@ -1,5 +1,14 @@
 {
     "common": {
+        "bonus": "బోనస్",
+        "bonusContribution": "బోనస్ – సహకారం",
+        "bonusContributions": "బోనస్‌లు – సహకారాలు",
+        "bonusPayout": "బోనస్ – చెల్లింపు",
+        "bonusPayouts": "బోనస్‌లు – చెల్లింపులు",
+        "bonusProgram": "బోనస్ కార్యక్రమం",
+        "bonusPrograms": "బోనస్ కార్యక్రమాలు",
+        "bonusType": "బోనస్ రకం",
+        "bonusTypes": "బోనస్ రకం – రకాలు",
         "bonuses": "బోనస్‌లు",
         "earnedDate": "సంపాదించిన తేదీ",
         "program": "బోనస్ కార్యక్రమం",
