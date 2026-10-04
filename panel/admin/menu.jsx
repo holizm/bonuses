@@ -3,15 +3,15 @@ export default [
         children: [
             {
                 path: '/bonuses/bonus/list',
-                title: 'bonusesBonuses',
+                title: 'bonuses',
             },
             {
                 path: '/bonuses/bonusProgram/list',
-                title: 'bonusesPrograms',
+                title: 'programs',
             },
         ],
         icon: 'redeem',
         path: '/bonuses',
-        title: 'bonusesBonuses',
+        title: 'bonuses',
     },
 ]

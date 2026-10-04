@@ -10,7 +10,7 @@ import {
 const inputs = <>
     <Title />
     <Text
-        placeholder='bonusesCode'
+        placeholder='code'
         property='code'
         required
     />
@@ -23,20 +23,20 @@ const inputs = <>
             'retention',
             'other',
         ]}
-        placeholder='bonusesType'
+        placeholder='type'
         property='bonusType'
         required
     />
     <DateTime
-        placeholder='bonusesStartDate'
+        placeholder='startDate'
         property='startDate'
     />
     <DateTime
-        placeholder='bonusesEndDate'
+        placeholder='endDate'
         property='endDate'
     />
     <LongText
-        placeholder='bonusesDescription'
+        placeholder='description'
         property='description'
     />
 </>

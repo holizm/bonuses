@@ -9,7 +9,7 @@ import {
 
 const inputs = <>
     <Text
-        placeholder='bonusesEmployee'
+        placeholder='employee'
         property='employee'
         required
     />
@@ -22,27 +22,27 @@ const inputs = <>
             'retention',
             'other',
         ]}
-        placeholder='bonusesType'
+        placeholder='type'
         property='bonusType'
         required
     />
     <DateTime
-        placeholder='bonusesEarnedDate'
+        placeholder='earnedDate'
         property='earnedDate'
         required
     />
     <Numeric
-        placeholder='bonusesAmount'
+        placeholder='amount'
         property='amount'
         required
     />
     <Text
-        placeholder='bonusesCurrency'
+        placeholder='currency'
         property='currency'
         required
     />
     <LongText
-        placeholder='bonusesReason'
+        placeholder='reason'
         property='reason'
     />
 </>

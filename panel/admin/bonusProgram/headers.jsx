@@ -1,6 +1,6 @@
 export default <>
-    <th start>bonusesProgram</th>
-    <th>bonusesCode</th>
-    <th>bonusesType</th>
-    <th>stateMachinesState</th>
+    <th start>program</th>
+    <th>code</th>
+    <th>type</th>
+    <th>state</th>
 </>

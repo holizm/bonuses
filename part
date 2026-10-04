@@ -14,6 +14,8 @@ bonusProgram
     state
     description optional
     unique code
+    uses
+        stateMachines
 bonus
     bonusProgram optional
     employee
@@ -24,6 +26,8 @@ bonus
     source optional
     state
     reason optional
+    uses
+        stateMachines
 bonusContribution
     bonus
     contributor optional

@@ -1,7 +1,7 @@
 export default <>
-    <th start>bonusesEmployee</th>
-    <th>bonusesType</th>
-    <th>bonusesEarnedDate</th>
-    <th>bonusesAmount</th>
-    <th>stateMachinesState</th>
+    <th start>employee</th>
+    <th>type</th>
+    <th>earnedDate</th>
+    <th>amount</th>
+    <th>state</th>
 </>
