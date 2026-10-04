@@ -10,11 +10,11 @@ import {
 const inputs = <>
     <Title />
     <Text
-        placeholder='code'
-        property='code'
+        code
         required
     />
     <Select
+        bonusType
         options={[
             'tip',
             'performance',
@@ -24,21 +24,11 @@ const inputs = <>
             'other',
         ]}
         placeholder='type'
-        property='bonusType'
         required
     />
-    <DateTime
-        placeholder='startDate'
-        property='startDate'
-    />
-    <DateTime
-        placeholder='endDate'
-        property='endDate'
-    />
-    <LongText
-        placeholder='description'
-        property='description'
-    />
+    <DateTime startDate />
+    <DateTime endDate />
+    <LongText description />
 </>
 
 export default <DialogForm inputs={inputs} />

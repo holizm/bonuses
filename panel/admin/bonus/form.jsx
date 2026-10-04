@@ -9,11 +9,11 @@ import {
 
 const inputs = <>
     <Text
-        placeholder='employee'
-        property='employee'
+        employee
         required
     />
     <Select
+        bonusType
         options={[
             'tip',
             'performance',
@@ -23,28 +23,21 @@ const inputs = <>
             'other',
         ]}
         placeholder='type'
-        property='bonusType'
         required
     />
     <DateTime
-        placeholder='earnedDate'
-        property='earnedDate'
+        earnedDate
         required
     />
     <Numeric
-        placeholder='amount'
-        property='amount'
+        amount
         required
     />
     <Text
-        placeholder='currency'
-        property='currency'
+        currency
         required
     />
-    <LongText
-        placeholder='reason'
-        property='reason'
-    />
+    <LongText reason />
 </>
 
 export default <DialogForm inputs={inputs} />
