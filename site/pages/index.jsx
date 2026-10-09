@@ -1,12 +1,10 @@
 import { component$ } from '@builder.io/qwik'
-import {
-    Bonuses,
-    loadBonuses,
-} from 'bonuses'
+import BonusesBonuses from 'bonusesBonuses'
+import bonusesLoadBonuses from 'bonusesLoadBonuses'
 
 export default component$(() => {
-    const data = loadBonuses().value
-    return <Bonuses {...data} />
+    const data = bonusesLoadBonuses().value
+    return <BonusesBonuses {...data} />
 })
 
-export { loadBonuses }
+export { bonusesLoadBonuses as loadBonuses }

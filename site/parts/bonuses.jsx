@@ -1,6 +1,6 @@
 import Item from 'item'
 import List from 'list'
-import { BonusSummary } from 'bonuses'
+import BonusesBonusSummary from 'bonusesBonusSummary'
 
 export default ({
     bonuses,
@@ -13,7 +13,7 @@ export default ({
                 inList
                 key={bonus.id}
             >
-                <BonusSummary
+                <BonusesBonusSummary
                     bonus={bonus}
                     key={bonus.id}
                 />
